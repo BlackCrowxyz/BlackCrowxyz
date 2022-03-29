@@ -1,0 +1,27 @@
+{
+  "name": "pouya",
+  "version": "1.0.0",
+  "description": "GitHub profile for Pouya Mohammadkhani",
+  "main": "index.js",
+  "scripts": {
+    "marked": "npx marked -i README.md -o index.html",
+    "start": "npx serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pouya/pouya.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pouya/pouya/issues"
+  },
+  "homepage": "https://github.com/pouya/pouya#readme",
+  "devDependencies": {
+    "marked": "^4.0.7",
+    "nodemon": "^2.0.15",
+    "serve": "^13.0.2"
+  }
+}
