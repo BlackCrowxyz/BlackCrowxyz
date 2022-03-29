@@ -1,5 +1,5 @@
 {
-  "name": "pouya",
+  "name": "BlackCrowxyz",
   "version": "1.0.0",
   "description": "GitHub profile for Pouya Mohammadkhani",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pouya/pouya.git"
+    "url": "git+https://github.com/BlackCrowxyz/pouya.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pouya/pouya/issues"
+    "url": "https://github.com/BlackCrowxyz/pouya/issues"
   },
-  "homepage": "https://github.com/pouya/pouya#readme",
+  "homepage": "https://github.com/BlackCrowxyz/pouya#readme",
   "devDependencies": {
     "marked": "^4.0.7",
     "nodemon": "^2.0.15",
