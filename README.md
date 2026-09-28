@@ -88,12 +88,13 @@ Tip: pin your best 6 repositories on the GitHub profile page (CodeWave, hybrid-v
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" alt="Pouya's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=BlackCrowxyz&show_icons=true&hide_border=true&theme=transparent" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCrowxyz&layout=compact&hide_border=true&theme=transparent" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BlackCrowxyz&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=BlackCrowxyz&theme=transparent&hide_border=true" />
+  <img src="https://img.shields.io/github/followers/BlackCrowxyz?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/BlackCrowxyz?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=BlackCrowxyz&style=for-the-badge&color=blue" alt="Profile views" />
 </p>
 
 ---
