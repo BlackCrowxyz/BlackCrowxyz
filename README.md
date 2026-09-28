@@ -81,8 +81,6 @@
 - Pinia: [#2427](https://github.com/vuejs/pinia/pull/2427), [#1356](https://github.com/vuejs/pinia/pull/1356)
 - Vuetify: [#18865](https://github.com/vuetifyjs/vuetify/pull/18865)
 
-Tip: pin your best 6 repositories on the GitHub profile page (CodeWave, hybrid-vae, crypto_dashboard, vue-resume, OHBOY, plus any active app repo).
-
 ---
 
 ## GitHub Stats
